@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/tuandoan/esp/esp-adf/examples/player/pipeline_bt_sink/build/CMakeFiles/bootloader
+/home/tuandoan/esp/esp-adf/examples/player/pipeline_bt_sink/build/CMakeFiles/bootloader.rule
+/home/tuandoan/esp/esp-adf/examples/player/pipeline_bt_sink/build/CMakeFiles/bootloader-complete.rule
+/home/tuandoan/esp/esp-adf/examples/player/pipeline_bt_sink/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/tuandoan/esp/esp-adf/examples/player/pipeline_bt_sink/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/tuandoan/esp/esp-adf/examples/player/pipeline_bt_sink/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/tuandoan/esp/esp-adf/examples/player/pipeline_bt_sink/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/tuandoan/esp/esp-adf/examples/player/pipeline_bt_sink/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/tuandoan/esp/esp-adf/examples/player/pipeline_bt_sink/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/tuandoan/esp/esp-adf/examples/player/pipeline_bt_sink/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule

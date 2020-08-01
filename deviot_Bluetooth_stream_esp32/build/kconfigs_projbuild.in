@@ -1,0 +1,7 @@
+source "/home/tuandoan/esp/esp-idf/components/app_update/Kconfig.projbuild"
+source "/home/tuandoan/esp/esp-adf/components/audio_board/Kconfig.projbuild"
+source "/home/tuandoan/esp/esp-idf/components/bootloader/Kconfig.projbuild"
+source "/home/tuandoan/esp/esp-adf/components/esp-adf-libs/Kconfig.projbuild"
+source "/home/tuandoan/esp/esp-adf/components/esp-sr/Kconfig.projbuild"
+source "/home/tuandoan/esp/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "/home/tuandoan/esp/esp-idf/components/partition_table/Kconfig.projbuild"
